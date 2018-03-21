@@ -1,0 +1,22 @@
+h1 {
+  color:red;
+}
+
+p {
+  color:blue;
+  font-family: Helvetica;
+  font-size: 16px;
+}
+
+ul il {
+  background-color: yellow;
+}
+
+h2 {
+  color: green;
+  background-color: orange;
+}
+
+ol il {
+  background-color: teal;
+}
